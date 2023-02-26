@@ -3,7 +3,7 @@ Hi there 👋
 ![snake gif](https://github.com/morvin300/morvin300/blob/output/github-contribution-grid-snake.svg)
 
 
-🌱 I’m currently learning Java fx, Core java
+🌱 I’m currently learning Java fx, Core java \n 
 👯 I’m looking to collaborate on my JavaFx projects
 🤔 I’m looking for help with apis
 💬 Ask me about JavaFx
