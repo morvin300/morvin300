@@ -1,16 +1,15 @@
 Hi there 👋
 
-![snake gif](https://github.com/morvin300/morvin300/blob/output/github-contribution-grid-snake.svg)
 
 
-🌱 I’m currently learning Django, Python for SQL stack
+🌱 I’m currently learning to master on python skills 
 
-👯 I’m looking to collaborate on my Django projects
+👯 I’m looking forward for collaboration during this period 
 
-🤔 I’m looking for help with apis
+🤔 I’m looking for help more advanced python structures 
 
-💬 Ask me about Django 
+💬 Ask me about Python
 
 😄 Pronouns: He
 
-⚡ Fun fact: Hello World!
+⚡ Fun fact: Hello World! 
